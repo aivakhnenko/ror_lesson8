@@ -1,6 +1,5 @@
 require_relative 'manufacturer'
 
-# doc
 class Railcar
   include Manufacturer
 

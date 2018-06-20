@@ -1,4 +1,3 @@
-# doc
 class PassengerRailcar < Railcar
   attr_reader :seats_total, :seats_occupied
 

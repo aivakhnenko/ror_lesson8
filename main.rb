@@ -7,7 +7,6 @@ require_relative 'train'
 require_relative 'cargo_train'
 require_relative 'passenger_train'
 
-# doc
 class Main
   def initialize
     @stations = []

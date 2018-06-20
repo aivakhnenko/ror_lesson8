@@ -1,6 +1,5 @@
 require_relative 'instance_counter'
 
-# doc
 class Route
   include InstanceCounter
 

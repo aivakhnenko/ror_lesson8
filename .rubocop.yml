@@ -1,0 +1,29 @@
+Style/ClassVars:
+  # Default
+  # Enabled: true
+  Enabled: false
+
+Style/Documentation:
+  # Default
+  # Enabled: true
+  Enabled: false
+
+Metrics/AbcSize:
+  # Default
+  # Max: 15
+  Max: 32
+
+Metrics/ClassLength:
+  # Default
+  # Max: 100
+  Max: 161
+
+Metrics/CyclomaticComplexity:
+  # Default
+  # Max: 6
+  Max: 7
+
+Metrics/MethodLength:
+  # Default
+  # Max: 10
+  Max: 18

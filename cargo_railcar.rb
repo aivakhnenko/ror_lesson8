@@ -1,4 +1,3 @@
-# doc
 class CargoRailcar < Railcar
   attr_reader :capacity_total, :capacity_used
 
